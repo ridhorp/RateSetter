@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "466125341192",
+    "firebase_url": "https://ratesetter-cda64.firebaseio.com",
+    "project_id": "ratesetter-cda64",
+    "storage_bucket": "ratesetter-cda64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466125341192:android:f10e6dde3a4f913a",
+        "android_client_info": {
+          "package_name": "com.ciptagrafika.ratesetter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466125341192-a1d6av5ousn8ekunmehgl3ifuo7upvsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ciptagrafika.ratesetter",
+            "certificate_hash": "81ae209941433c683ca6b6bc527e5439160114ff"
+          }
+        },
+        {
+          "client_id": "466125341192-4tsoe22ies34csbcad9m8t2snqv3i53f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQXQLBJiLL35vm_HcX66u5Faep1O-iUPs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466125341192-4tsoe22ies34csbcad9m8t2snqv3i53f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
